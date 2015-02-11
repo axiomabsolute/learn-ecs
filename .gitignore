@@ -1,0 +1,28 @@
+# Java/Clojure
+/pom.xml
+*jar
+/lib
+/classes
+/native
+/checkouts
+/target
+/.lein-failures
+/.lein-deps-sum
+.lein-repl-history
+
+# nrepl
+.nrepl-port
+
+# Vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+# Emacs
+
+# Sublime
+*.sublime-workspace
+*.sublime-project
